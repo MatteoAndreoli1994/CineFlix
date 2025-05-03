@@ -1,0 +1,16 @@
+CineFlix
+Librerie Utilizzate: Tailwind, react-icons, react Router.
+
+1 - Scarica ZIP
+Vai su GitHub → clicca su Code → Download ZIP → estrai i file in una cartella.
+
+2 - Vai nella cartella del progetto
+cd cineflix
+
+3 - Installa dipendenze
+npm install
+
+4 - Avvia applicazione
+npm start
+
+
